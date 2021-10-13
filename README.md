@@ -8,8 +8,8 @@ The **New World Live Map** shows the map using matplotlib since it has a zoom an
 
 Here is the whole map with the current position marker:
 
-![Image](https://drive.google.com/file/d/1jfz8usKurfOa-UBEBDK4gpsoTnyeDFZk/view?usp=sharing)
+![Image](https://drive.google.com/uc?export=view&id=1jfz8usKurfOa-UBEBDK4gpsoTnyeDFZk)
 
 You can also zoom in with matplotlib to get a more detailed map:
 
-![Image2](https://drive.google.com/file/d/1IIo76J01ZToEZJNKLSu1l_vJVvU6E1l5/view?usp=sharing)
+![Image2](https://drive.google.com/uc?export=view&id=1IIo76J01ZToEZJNKLSu1l_vJVvU6E1l5)
