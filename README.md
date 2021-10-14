@@ -18,8 +18,8 @@ You may need to add tesseract to your *PATH*.
 
 Here is the whole map with the current position marker:
 
-![Image](https://drive.google.com/uc?export=view&id=1jfz8usKurfOa-UBEBDK4gpsoTnyeDFZk)
+![Image](https://user-images.githubusercontent.com/61794769/137268466-ff75e324-27a0-4b77-8cd9-62c9bdaf9945.png)
 
 You can also zoom in with matplotlib to get a more detailed map:
 
-![Image2](https://drive.google.com/uc?export=view&id=1IIo76J01ZToEZJNKLSu1l_vJVvU6E1l5)
+![Image2](https://user-images.githubusercontent.com/61794769/137268559-69444f7b-f1d3-4329-8319-726aca9d8e7f.png)
