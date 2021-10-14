@@ -14,6 +14,11 @@ This project uses tesseract. You can install tesseract from [here](https://githu
 You may need to add tesseract to your *PATH*.
 
 
+## Installing dependencies
+
+You can install the dependencies by using ```pip install -r requirements.txt```.
+
+
 ## Preview
 
 Here is the whole map with the current position marker:
